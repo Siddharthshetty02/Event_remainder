@@ -1,0 +1,4 @@
+event-reminder/
+├── reminder.py       # Main script
+├── events.csv        # CSV file to store event data
+├── README.md         # Project description and instructions
