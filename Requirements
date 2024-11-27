@@ -1,0 +1,11 @@
+Requirements
+Python 3.x
+
+Libraries:
+datetime: To handle dates and times.
+time: To pause execution for checking reminders.
+plyer: For desktop notifications.
+csv or sqlite3: For storing event data.
+
+Install necessary libraries:
+bash : pip install plyer
