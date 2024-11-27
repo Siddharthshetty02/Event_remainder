@@ -1,0 +1,17 @@
+Add Event:
+
+Users can input details about the event, including the title, description, date, and time.
+Events are stored in a CSV file (events.csv).
+
+View Events:
+
+Displays a list of all scheduled events in a formatted table.
+
+Reminders:
+
+Periodically checks the CSV file for events due within the next minute.
+Sends a notification using the plyer library.
+
+Exit:
+
+Allows the user to close the program gracefully.
