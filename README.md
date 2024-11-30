@@ -36,3 +36,6 @@ Recurring Events:
 Add support for recurring events (e.g., daily, weekly, monthly).
 Advanced Storage:
 Use a database (e.g., SQLite) instead of a CSV file for better scalability.
+
+## SIDDHARTH RAGHUNATHA SHETTY
+Developer and Maintainer
